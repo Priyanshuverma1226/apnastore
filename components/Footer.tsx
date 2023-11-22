@@ -7,7 +7,7 @@ export default function Footer(){
               
             </p>
             <div className={styles.footer__left}>
-                <p>This App Develop By Rishab.</p>
+                <p>This App Develop By Tanish.</p>
             </div>
         </footer>
     )
